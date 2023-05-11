@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #282829;
+    background-color: #a52121;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -36,6 +36,7 @@ img {
 
 .header__logo {
     width: 80px;
+    border-radius: 50%;
 }
 
 .header__menu {
@@ -298,4 +299,7 @@ header nav {
     .carousel-item img {
         height: 350px;
     }
+}.git {
+    background-color: yellow;
+    color: #a52121;
 }
